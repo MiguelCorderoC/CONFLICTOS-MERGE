@@ -2,4 +2,5 @@ Miguel cordero
 Fernando Santillan
 Ronnie Navidad
 Gabriel Araiza
-Abraham Araiza
+Sain Bernal
+Martin Nevarez
