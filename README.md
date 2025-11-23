@@ -3,4 +3,5 @@ Fernando Santillan
 Ronnie Navidad
 Gabriel Araiza
 Sain Bernal
-Martin Nevarez
+Jose Roberto
+Manuel Gonzalez
